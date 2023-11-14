@@ -1,0 +1,40 @@
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\bin\Debug\calc.exe.config
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\bin\Debug\calc.exe
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\bin\Debug\calc.pdb
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\obj\Debug\calc.exe
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\calc\calc\obj\Debug\calc.pdb
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\bin\Debug\calc.exe.config
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\bin\Debug\calc.exe
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\bin\Debug\calc.pdb
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\obj\Debug\calc.exe
+C:\Users\paulo.hsantos26\source\repos\aula-algoritmo-TI21\UC12 - CSharp\calc\calc\obj\Debug\calc.pdb
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\bin\Debug\calc.exe.config
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\bin\Debug\calc.exe
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\bin\Debug\calc.pdb
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.exe
+C:\Users\pedro.hgaspar2\Documents\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.pdb
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\bin\Debug\calc.exe.config
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\bin\Debug\calc.exe
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\bin\Debug\calc.pdb
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.exe
+C:\Users\pedro.hgaspar2\source\Repos\TI21-main\UC12 - CSharp\calc\calc\obj\Debug\calc.pdb
